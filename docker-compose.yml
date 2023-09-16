@@ -3,5 +3,5 @@ services :
   web :
      image : "dipak1994/django-todo:latest"
      ports :
-         - "8000:8000"
+         - "8009:8009"
     
