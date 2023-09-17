@@ -17,7 +17,7 @@ $ python manage.py makemigrations
 
 This will create all the migrations file (database migrations) required to run this App.
 
-Now, to apply this migrations run the following command
+Now, to apply this migrations run the following command.
 ```bash
 $ python manage.py migrate
 ```
